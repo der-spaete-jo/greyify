@@ -1,4 +1,4 @@
-Pipfile
-Pipfile.lock
 greyify_refactor_try.py
-
+build/
+dist/
+greyify.spec
